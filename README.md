@@ -33,8 +33,10 @@ This script installs developer tools, changes shell startup files, configures ru
 
 Built for zsh, quickstart but make sure to check the options before running it:
 
+URL: `https://github.com/alexey/mac_dev_bootstrap`
+
 ```bash
-git clone https://github.com/alexey/mac_dev_bootstrap/mac-dev-bootstrap.git ./mac-dev-bootstrap
+git clone git@github.com:alexey/mac_dev_bootstrap.git ./mac-dev-bootstrap
 cd mac-dev-bootstrap
 chmod +x ./mac_dev_bootstrap.sh
 mac_dev_bootstrap.sh --gh_email=you@example.com
