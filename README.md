@@ -34,6 +34,7 @@ This script installs developer tools, changes shell startup files, configures ru
 Built for zsh, quickstart but make sure to check the options before running it:
 
 URL: `https://github.com/alexey/mac_dev_bootstrap`
+You can download it from GitHub/zip file or by terminal:
 
 ```bash
 git clone git@github.com:alexey/mac_dev_bootstrap.git ./mac-dev-bootstrap
